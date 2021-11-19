@@ -15,7 +15,13 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-
+.bg-red {
+	background-color: #11acac;
+	padding: 1rem;
+	border-radius: 4px;
+	color: #fff;
+	font-weight: 500;
+}
 .focused {
 	font-size: 3rem;
 	font-weight: bold;
@@ -25,6 +31,7 @@ body {
 .red {
 	color: red;
 }
+
 .btn {
 	text-decoration: none;
 	background-color: teal;
